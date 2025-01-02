@@ -5,12 +5,14 @@ Bash scripting is a powerful way to automate tasks in Unix-based systems. In thi
 Prerequisites
 
 To run the scripts, you need a Unix-based operating system (Linux or macOS) with Bash installed. Most Linux distributions come with Bash preinstalled.
-How to Use
-
-    Clone this repository to your local machine.
-    Navigate to the directory where the scripts are stored.
-    Make the script executable with the following command:
-    chmod +x script_name.sh
+How to Use:
+ Clone this repository to your local machine.
+ Navigate to the directory where the scripts are stored.
+     
+Make the script executable with the following command:
+     
+      chmod +x script_name.sh
 
 Run the script:
-./script_name.sh
+    
+    ./script_name.sh

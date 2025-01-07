@@ -4,7 +4,7 @@ Overview
 Bash scripting is a powerful way to automate tasks in Unix-based systems. In this project, you will find scripts that cover a wide range of functionalities, from file manipulation to system monitoring, all written in Bash.
 Prerequisites
 
-To run the scripts, you need a Unix-based operating system (Linux or macOS) with Bash installed. Most Linux distributions come with Bash preinstalled.
+To run the scripts, you need a Unix-based operating system (Linux or macOS). Most Linux distributions come with Bash preinstalled.
 How to Use:
  Clone this repository to your local machine.
  Navigate to the directory where the scripts are stored.

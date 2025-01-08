@@ -9,7 +9,7 @@ How to Use:
  Clone this repository to your local machine.
  Navigate to the directory where the scripts are stored.
      
-Make the script executable with the following command:
+Make the script executable with the following command :
      
       chmod +x script_name.sh
 

@@ -15,6 +15,6 @@ if [[ -e "$filename" ]]; then
     fi
     echo "$filename"
 else
-    echo "Nope! The file isn't here."
+    echo "Nope! The file isn't here. "
 fi
 

@@ -2,7 +2,7 @@
 
 echo "File Checker"
 
-echo "Enter the file or folder name: "
+echo "Enter the file or folder name:"
 read filename
 
 if [[ -e "$filename" ]]; then

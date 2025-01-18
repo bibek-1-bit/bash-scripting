@@ -8,7 +8,7 @@ read firstNum
 echo "Enter the second Number"
 read secondNum
 
-echo "Choose operator: +,-,*,/"
+echo "Choose operator +,-,*,/"
 read operator
 
 if [ "$operator" == "+" ]; then

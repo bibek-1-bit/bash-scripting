@@ -13,7 +13,7 @@ read operator
 
 if [ "$operator" == "+" ]; then
 sum=$((firstNum+secondNum))
-echo "The sum of two numbers is: $sum"
+echo "The sum of two numbers is: $sum "
 fi
 
 
